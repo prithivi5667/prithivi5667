@@ -19,7 +19,7 @@ __Check out my Portfolio:__
 
 <div>
   <p>
-    <a href="https://prithivi.netlify.app/">
+    <a href="https://prithivi.netlify.app/"target="_blank">
       Portfolio
     </a>
   </p>
@@ -27,6 +27,11 @@ __Check out my Portfolio:__
                                         Fast learner in the fast paced world. Motivated to learn and to advance professionally. Always ready to face the challenges that can reshape me. I am the product of my choices.
 
   </p>
+  <h3> phone:+91 7373665667</h3>
+  <h3>mail:prithivi5667@gmail.com</h3>
+  <h4>Address:
+    42,Padiyandipalayam Pudur,kangayam,Tirupur-638701
+  </h4>
 </div>
 
 
@@ -35,5 +40,5 @@ __Check out my Portfolio:__
 
 
 ---------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/prithivi5667">PrithiviRajan</a>
+Credits: <a href="https://github.com/prithivi5667" target="_blank">PrithiviRajan</a>
 
